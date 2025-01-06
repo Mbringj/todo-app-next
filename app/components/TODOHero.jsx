@@ -1,6 +1,6 @@
 function TODOHero({todos_completed, total_todos}) {
   return (
-    <section>
+    <section className="todohero_section">
       <div>
         <p>Tache complete</p>
         <p>Continuez comme ça</p>

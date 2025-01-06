@@ -1,3 +1,5 @@
+"use client";
+
 import Header from "./components/Header";
 import TODOHero from "./components/TODOHero";
 import TODOList from "./components/TODOList";
