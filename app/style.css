@@ -18,9 +18,10 @@ body {
 }
 button {
   cursor: pointer;
+  color: white;
 }
+
 .visually-hidden {
-  position: absolute !important;
   clip: rect(1px, 1px, 1px, 1px);
   padding: 0 !important;
   border: 0 !important;
@@ -34,6 +35,10 @@ button {
 }
 .text_small {
   font-size: 24px;
+}
+
+span .text-color {
+  color: white;
 }
 .wrapper {
   display: flex;
